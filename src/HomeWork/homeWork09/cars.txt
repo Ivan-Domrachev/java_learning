@@ -1,0 +1,7 @@
+Subaru,Impreza,2008,107,7,15,250
+Honda,Accord,2014,110,8,14,300
+Mazda,RX-9,2024,231,6,22,200
+Porsche,Cayman,2022,300,5,14,210
+Jaguar,F-type,2020,300,6,10,278
+McLaren,Artura,2020,680,3,7,500
+

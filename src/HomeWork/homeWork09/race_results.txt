@@ -1,0 +1,6 @@
+В заезде DragRace:
+Победу одержала машина: Car{CarBrand='McLaren', CarModel='Artura', YearOfIssuer=2020, HorsePower=680, acceleration=3, suspension=7, durability=500}
+В заезде DriftRace:
+Победу одержала машина: Car{CarBrand='Mazda', CarModel='RX-9', YearOfIssuer=2024, HorsePower=231, acceleration=6, suspension=22, durability=200}
+В заезде CasualRace:
+Победу одержала машина: Car{CarBrand='Subaru', CarModel='Impreza', YearOfIssuer=2008, HorsePower=107, acceleration=7, suspension=15, durability=250}
