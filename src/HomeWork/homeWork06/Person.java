@@ -39,7 +39,7 @@ public class Person {
         this.amountOfMoney = amountOfMoney;
     }
 
-    public void addGroceryBag(Product product) {
+    public boolean addGroceryBag(Product product) {
         if (amountOfMoney >= product.getPrice()) {
             groceryBag.add(product);
             amountOfMoney -= product.getPrice();
@@ -47,6 +47,7 @@ public class Person {
         } else {
             System.out.println(this.name + " не может позволить себе " + product.getProdName());
         }
+        return false;
     }
 
     @Override

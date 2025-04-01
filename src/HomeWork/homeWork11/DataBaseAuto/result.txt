@@ -1,0 +1,17 @@
+База авто: 
+AutoNum: a123me, AutoModel: Mercedes, Color: White, Mileage: 0, Price: 8300000
+AutoNum: b873of, AutoModel: Volga, Color: Black, Mileage: 0, Price: 673000
+AutoNum: w487mn, AutoModel: Lexus, Color: Grey, Mileage: 76000, Price: 900000
+AutoNum: p987hj, AutoModel: Volga, Color: Red, Mileage: 610, Price: 704340
+AutoNum: c987ss, AutoModel: Toyota, Color: White, Mileage: 254000, Price: 761000
+AutoNum: o983op, AutoModel: Toyota, Color: Black, Mileage: 698000, Price: 740000
+AutoNum: p146op, AutoModel: BMW, Color: White, Mileage: 271000, Price: 850000
+AutoNum: u893ii, AutoModel: Toyota, Color: Purple, Mileage: 210900, Price: 440000
+AutoNum: l097df, AutoModel: Toyota, Color: Black, Mileage: 108000, Price: 780000
+AutoNum: y876wd, AutoModel: Toyota, Color: Black, Mileage: 160000, Price: 1000000
+
+Номера автомобилей по цвету или пробегу: a123me, b873of, o983op, l097df, y876wd
+
+Уникальные автомобили: 2 шт.
+Цвет с минимальной стоимость: Purple
+Средняя стоимость модели Toyota: 744200,00
